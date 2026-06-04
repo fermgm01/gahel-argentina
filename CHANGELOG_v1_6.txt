@@ -1,0 +1,21 @@
+GAHEL ARGENTINA v1.6
+
+Cambios principales:
+- Seguridad básica antes de nube.
+- Token Telegram fuera del código.
+- Soporte .env / variables de entorno.
+- Chat ID autorizado.
+- Telegram sender robusto.
+- Logs centralizados en logs/agent_logs.txt.
+- Manejo de errores general en core/main.py.
+- Watchdog base.
+- Contexto argentino conectado al decision_engine.
+- Allocator por categorías conectado.
+- Reporte sin redundancias.
+- FCI con fallback si falla la API.
+- Preparado para Railway/Render.
+
+No incluye:
+- CEDEARs.
+- Internacional.
+- USA.

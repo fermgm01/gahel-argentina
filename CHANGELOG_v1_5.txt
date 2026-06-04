@@ -1,0 +1,7 @@
+GAHEL ARGENTINA v1.5
+
+- risk_engine agregado
+- memoria contextual inicial
+- mejoras de contexto argentino
+- base allocator dinámica
+- consolidación inteligencia Argentina

@@ -1,0 +1,15 @@
+REPORTE FINANCIERO AUTOMÁTICO
+
+Este archivo se genera automáticamente por el agente financiero.
+
+Objetivos:
+
+- Monitorear mercado argentino
+
+- Evaluar riesgo CER
+
+- Detectar cambios en cobertura
+
+- Ajustar exposición automáticamente
+
+- Generar reportes diarios

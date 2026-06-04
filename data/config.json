@@ -1,0 +1,39 @@
+{
+  "usuario": "Fernando Maldonado",
+  "pais": "Argentina",
+  "moneda_base": "ARS",
+  "fondos": {
+    "principal_cer": "Champaquí Cobertura",
+    "liquidez": "Champaquí Ahorro Pesos"
+  },
+  "activos_a_monitorear": {
+    "bonos_cer": [
+      "TX26",
+      "TZX26",
+      "T2X"
+    ],
+    "dolares": [
+      "oficial",
+      "MEP",
+      "CCL",
+      "blue"
+    ],
+    "macro": [
+      "inflacion",
+      "tasa",
+      "riesgo_pais",
+      "reservas_bcra"
+    ]
+  },
+  "perfil": {
+    "objetivo": "preservar capital y ganarle a la inflación",
+    "riesgo": "moderado/conservador",
+    "horizonte": "corto y mediano plazo"
+  },
+  "reglas": {
+    "maximo_cer_normal": 0.65,
+    "minimo_liquidez": 0.25,
+    "dolarizacion_tactica": 0.1,
+    "riesgo_alto_liquidez_minima": 0.45
+  }
+}

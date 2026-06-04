@@ -1,0 +1,7 @@
+GAHEL ARGENTINA v1.7
+
+- Carga robusta de .env desde la raíz del proyecto.
+- telegram_sender.py actualizado para leer TELEGRAM_BOT_TOKEN y TELEGRAM_CHAT_ID.
+- requirements.txt actualizado con python-dotenv y requests.
+- Estado token: TOKEN_NO_ENCONTRADO.
+- No se agregó CEDEARs ni internacional.

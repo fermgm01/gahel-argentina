@@ -1,0 +1,7 @@
+GAHEL ARGENTINA v1.4
+
+- argentina_context_engine agregado
+- allocator dinámico agregado
+- mejoras base de inteligencia contextual
+- foco absoluto Argentina
+- CEDEARs excluidos
