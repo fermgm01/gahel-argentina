@@ -1,0 +1,11 @@
+GAHEL ARGENTINA v1.8
+
+- Preparado para Railway.
+- Agregado main.py en raíz.
+- Agregado railway.json.
+- Agregado Procfile.
+- Agregado .gitignore.
+- Limpieza de __pycache__ y .pyc.
+- requirements.txt consolidado.
+- No incluye .env para proteger token.
+- CEDEARs e internacional siguen excluidos.
