@@ -1,5 +1,3 @@
 [2026-06-03 14:37:45] Inicio de ejecución de Gahel Argentina.
 [2026-06-03 14:37:50] Telegram desactivado por SEND_TELEGRAM=false.
 [2026-06-03 14:37:50] Ejecución finalizada correctamente.
-[2026-06-03 12:26:20] Inicio de ejecución de Gahel Argentina.
-[2026-06-03 12:26:24] Ejecución finalizada correctamente.

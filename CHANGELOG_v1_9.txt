@@ -1,0 +1,8 @@
+GAHEL ARGENTINA v1.9
+
+- Modo nube 24/7 agregado.
+- Reporte diario programado a las 09:00 AM Argentina.
+- Evita duplicar reportes en el mismo día.
+- Start command Railway: python main.py.
+- Variables de horario agregadas a .env.example.
+- CEDEARs e internacional siguen excluidos.
